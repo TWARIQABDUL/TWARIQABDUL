@@ -29,17 +29,6 @@ Currently focused on native Android development and Machine Learning.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWARIQABDUL&show_icons=true&theme=minimal&hide_border=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWARIQABDUL&layout=compact&theme=minimal&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -52,7 +41,7 @@ Currently focused on native Android development and Machine Learning.
 
 ### 🌱 Current Focus
 * **Android Development:** Mastering Activity Lifecycles, RecyclerViews, and SQLite integration.
-* **Data Science:** exploring predictive modeling with Python.
+* **Data Science:** Exploring predictive modeling with Python.
 * **Cloud Architecture:** Learning AWS fundamentals for backend deployment.
 
 <br/>
