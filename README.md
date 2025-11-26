@@ -32,9 +32,11 @@ Currently focused on native Android development and Machine Learning.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWARIQABDUL&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TWARIQABDUL&show_icons=true&theme=minimal&hide_border=true" height="160" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWARIQABDUL&layout=compact&theme=minimal&hide_border=true" height="160" alt="languages graph" />
 </div>
+
 
 ---
 
