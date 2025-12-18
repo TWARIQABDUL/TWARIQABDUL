@@ -26,7 +26,7 @@ Currently focused on **Android Development** and **Machine Learning**.
 
 ---
 
-## 🚀 Latest Projects (Auto-Updated)
+## Latest Projects (Auto-Updated)
 
 <!-- START_SECTION:repos -->
 <!-- END_SECTION:repos -->
@@ -35,7 +35,7 @@ Currently focused on **Android Development** and **Machine Learning**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Currently focused on **Android Development** and **Machine Learning**.
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 - Android: Activities, RecyclerView, SQLite
 - Backend: APIs & Cloud Deployment
 - Data Science: Python & ML basics
