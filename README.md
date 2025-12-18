@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Twariq Abdul 👋
+# Hi, I'm Twariq Abdulaziz
 ### Software Developer | Android Enthusiast | Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
